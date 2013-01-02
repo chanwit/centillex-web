@@ -8,7 +8,7 @@ $(function(){
 // display the version of jQM
 $(document).bind( 'pageinit', function() {
 
-	$( "p.jqm-version" ).html( "<a href=\"http://grails.org/plugin/zk\"><b>2.1.0 Final</b></a>" );
+	$( "p.jqm-version" ).html( "<a href=\"http://grails.org/plugin/zk\">2.1.0 <b>Final</b></a>" );
 
 });
 
